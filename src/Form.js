@@ -25,7 +25,7 @@ class form extends Component {
 
     onSubmit(evt) {
         evt.preventDefault();
-        axios.post("http://localhost:4300", this.state)
+        axios.post("https://sheltered-fortress-46232.herokuapp.com", this.state)
             .then((res) => {
                 let i;
                 let d = {};
