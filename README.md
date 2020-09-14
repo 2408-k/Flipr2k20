@@ -1,5 +1,18 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Covid-19Help
+
+A website containing all the information regarding Covid-19.
+
+## Tech Stack
+
+=> React
+=> Express
+=> MongoDB
+=> Node.js
+
+Deployed on Heroku
+
 ## Available Scripts
 
 In the project directory, you can run:
