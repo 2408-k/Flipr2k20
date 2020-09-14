@@ -1,0 +1,21 @@
+.navBar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  background-color: black;
+  min-height: 50px;
+}
+
+.hh {
+  margin: 20px;
+}
+
+.ac {
+  color: aliceblue;
+  text-decoration: underline;
+}
+
+.App {
+
+}
